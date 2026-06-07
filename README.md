@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @claipoggers
+- 👋 Hi, I’m [@claipoggers](https://github.com/claipoggers)
 - 👀 I’m interested in John Pork
 - 🌱 I’m currently learning how to answer John Pork's calls
 - 💞️ I’m looking to collaborate on calling John Pork
